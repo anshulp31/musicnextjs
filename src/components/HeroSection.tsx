@@ -20,7 +20,7 @@ const HeroSection = () => {
              text-neutral-300 max-w-lg mx-auto">
                 Dive into our comprehensive music courses and 
                 transform your musical journey today.
-                Whether you're a beginner or looking to refine your skills, 
+                Whether you are a beginner or looking to refine your skills, 
                 join us to unlock your true potential.
             </p>
             <div className="mt-4">
